@@ -1,2 +1,2 @@
 # 221-328-lab-work
-The basics of web development
+Learning the basics of web development
